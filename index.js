@@ -13,16 +13,6 @@ app.use(express.static('public'));
 // Valid categories in English
 const validCategories = ['Food', 'Leisure', 'Electronics', 'Services', 'Clothing', 'Health', 'Others'];
 
-const categories = [
-  'Food',
-  'Leisure',
-  'Electronics',
-  'Utilities',
-  'Clothing',
-  'Health',
-  'Other'
-];
-
 /**
  * Read the expenses from data/expenses.json file
  * 
