@@ -21,12 +21,12 @@
     "id": 4,
     "description": "Electricity bill",
     "amount": 87.3,
-    "category": "Utilities"
+    "category": "Food"
   },
   {
     "id": 5,
     "description": "Book",
-    "amount": 20,
+    "amount": 50,
     "category": "Leisure"
   }
 ]
